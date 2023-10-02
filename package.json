@@ -1,0 +1,14 @@
+{
+  "name": "cypress_template",
+  "version": "1.0.0",
+  "description": "Template for Cypress projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kraducki",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "cypress-grep": "^3.0.3"
+  }
+}
